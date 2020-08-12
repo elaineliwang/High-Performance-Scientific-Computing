@@ -1,0 +1,6 @@
+Code run by **Li Wang**
+Environment variable UWHPSC is /projects/55aedffe-943a-4f99-b7ec-6bce98d2d2cd/uwhpsc
+Environment variable MYHPSC is /projects/55aedffe-943a-4f99-b7ec-6bce98d2d2cd/myhpsc
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
